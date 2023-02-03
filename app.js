@@ -1,1 +1,1 @@
-console.log("first인데?");
+console.log("나 두번째?");
